@@ -257,7 +257,7 @@ nav ul li a{
     padding: 0 1rem;
 }
 #contact{
-    padding: 6rem 3rem;
+    padding: 6rem 0;
 }
 .contact{
    display: grid;
